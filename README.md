@@ -396,3 +396,5 @@
 - **31.6**　LLM Agent 與 SLAM 系統整合
 - **31.7**　邊緣 AI 部署：Jetson、量化與蒸餾
 - **31.8**　風險、限制與未來發展
+
+![地圖建構與同步定位](https://github.com/leeshihyuan/SLAM-Simultaneous-Localization-and-Mapping/blob/main/SLAM-Simultaneous-Localization-and-Mapping_Cover-2.png "地圖建構與同步定位")
