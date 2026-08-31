@@ -8,6 +8,8 @@
 **教學助理：** 李天宇、李宇晴  
 **適用課程：** 大學智慧機器人學程、高中 AI 機器人社團課程
 
+![地圖建構與同步定位](https://github.com/leeshihyuan/SLAM-Simultaneous-Localization-and-Mapping/blob/main/SLAM-Simultaneous-Localization-and-Mapping_Cover-1.jpg "地圖建構與同步定位")
+
 ## 書籍資訊
 
 | 項目 | 內容 |
